@@ -7,7 +7,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about C++ or keyboard
 - 📫 How to reach me: lybbor@126.com
 - ⚡ Fun fact: Actually, my DIY keyboard is as bad as my C++ level.haha
