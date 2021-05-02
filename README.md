@@ -1,5 +1,5 @@
 :blue_heart: :yellow_heart: :heart: :green_heart: :purple_heart:
-## ✨Lybbor got you!✨
+## :ribbon:Lybbor got you!
 
 <!--
 **lybbor/lybbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ https://lybbor.github.io/
 ## ✨Technology_stack Github statistics✨
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lybbor&show_icons=true">
 
-C++
+- C++
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
