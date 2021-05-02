@@ -14,7 +14,7 @@
 ## 技术栈 Github 统计
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=captain5&show_icons=true">
 
-Python
+C++
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
