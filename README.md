@@ -3,7 +3,7 @@
 <!--
 **lybbor/lybbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- :cherry_blossom: hi！I'm lybbor.
+- :love_letter: hi！I'm lybbor.
 - 🌱 I’m currently learning C++
 - 💬 Ask me about C++ or keyboard
 - 📫 How to reach me: lybbor@126.com
