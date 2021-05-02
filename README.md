@@ -12,7 +12,7 @@
 ## :ribbon:blog:ribbon:
 https://lybbor.github.io/
 
-## :ribbon:Technology_stack Github statistics:ribbon:
+## :ribbon:Tech_stack Github statistics:ribbon:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lybbor&show_icons=true">
 
 - :wrench: C++
