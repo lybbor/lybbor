@@ -10,13 +10,13 @@ hi！I'm lybbor.
 - 📫 How to reach me: lybbor@126.com
 - ⚡ Fun fact: Actually, my DIY keyboard is as bad as my C++ level.haha
 
-## ✨blog✨
+## :ribbon:blog:ribbon:
 https://lybbor.github.io/
 
-## ✨Technology_stack Github statistics✨
+## :ribbon:Technology_stack Github statistics:ribbon:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lybbor&show_icons=true">
 
 - C++
-:blue_heart: :yellow_heart: :heart: :green_heart: :purple_heart:
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+- :blue_heart: :yellow_heart: :heart: :green_heart: :purple_heart:
+- ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+- ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
