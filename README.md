@@ -1,5 +1,5 @@
 :blue_heart: :yellow_heart: :heart: :green_heart: :purple_heart:
-### Lybbor got you!
+### ✨Lybbor got you!✨
 
 <!--
 **lybbor/lybbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@
 - 📫 How to reach me: lybbor@126.com
 - ⚡ Fun fact: Actually, my DIY keyboard is as bad as my C++ level.haha
 
-## 技术栈 Github 统计
+## ✨Technology_stack Github statistics✨
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lybbor&show_icons=true">
 
 C++
@@ -25,5 +25,5 @@ C++
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 
-## blog
+## ✨blog✨
 https://lybbor.github.io/
